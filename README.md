@@ -1,5 +1,4 @@
-# Script-de-Provisionamento
-
+# SkyServer
 # Provisionamento Automático de Servidor Apache 🚀
 
 Script Bash para automatizar a instalação e configuração de um servidor web Apache em sistemas Linux.
